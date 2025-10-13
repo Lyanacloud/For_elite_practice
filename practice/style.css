@@ -191,12 +191,6 @@ main{
     table-layout: fixed;
     width: 80%;
     border-collapse: collapse;
-    border: 3px solid var(--border-color);
 }
-.skills>table>thead>tr>th{
-    border: 3px solid var(--border-color);
-}
-.skills>table>tbody>tr>td{
-    border: 3px solid var(--border-color);
 
-}
+
