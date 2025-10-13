@@ -189,7 +189,7 @@ main{
 }
 .skills>table{
     table-layout: fixed;
-    width: 800px;
+    width: 80%;
     border-collapse: collapse;
     border: 3px solid var(--border-color);
 }
@@ -198,4 +198,5 @@ main{
 }
 .skills>table>tbody>tr>td{
     border: 3px solid var(--border-color);
+
 }
